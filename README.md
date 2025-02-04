@@ -1,5 +1,7 @@
 # Welcome to my portfolio
-You are here because I sent you a link. Take a look at my projects. if you want any extended details on how the code works, ask me on Discord.
+You are here either because I sent you a link to have a look at what I am capable of, or you just happened to stumble upon my profile. Take a look at my projects. If you want any extended details on how the code works, ask me on Discord.
 
-- Basic Datastore
-- A basic display of my capabilities in datastores, not designed for large games with large playerbases.
+Alot of the files have self explanatory names.
+
+- **BasicDatastore**
+A basic display of my capabilities in datastores, not designed for large games with large playerbases.
